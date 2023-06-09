@@ -1,4 +1,11 @@
-<div dir="rtl">
-پی دی اف algodesign(activity selection) حاوی توضیحات و تحلیل و مقایسه دو الگوریتم Exhaustive Search  و Greedy Seaarch  برای حل مسئله زمان بندی کارها است. فایل Python Scripts حاوی کد دو الگوریتم و مقایسه آن ها به صورت فایل پایتون(.py) و به صورت فایل (.txt) است. فایل Activity Selection Problem همان فایل پروژه در پایتون است.
-
-</div>
+<!doctype html>
+<html dir="rtl" lang="fa-IR">
+<head>
+ <meta charset="utf-8">
+</head>
+ 
+<body style="direction: rtl;">
+ <p>این یک جمله برای آزمایش زبان فارسی است</p>
+ <a href="#">آموزش html در ادمین سایت</a>
+</body> 
+</html>
